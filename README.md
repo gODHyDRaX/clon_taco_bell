@@ -1,7 +1,7 @@
 # clon_taco_bell
 
-Proposito del protecto
-EL proposito de este proyecto es realizar un clon de una pagina web intentando recrear el 100% de la misma.
+Proposito del protecto:
+El proposito de este proyecto es realizar un clon de una pagina web intentando recrear el 100% de la misma.
 
 Tecnologias usadas en este proyecto
 Git
